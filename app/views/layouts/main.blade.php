@@ -24,7 +24,7 @@
 <div id="wrapper">
     <header>
         <section id="top-area">
-            <p>Phone orders: 1-800-0700 | Email us: <a href="mailto:office@shop.com">office@shop.com</a></p>
+            <p>Phone orders: 1-800-0780 | Email us: <a href="mailto:office@shop.com">office@shop.com</a></p>
         </section><!-- end top-area -->
         <section id="action-bar">
             <div id="logo">
