@@ -9,7 +9,8 @@
 		"moltin/tax": "dev-master",
 		"moltin/currency": "dev-master",
 		"moltin/cart": "dev-master",
-		"moltin/laravel-cart": "dev-master"
+		"moltin/laravel-cart": "dev-master",
+        "Way/Generators": "dev-master"
 	},
 	"autoload": {
 		"classmap": [

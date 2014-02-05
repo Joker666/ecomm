@@ -16,6 +16,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/moltin/tax" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mustache/mustache" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/patchwork/utf8" />
@@ -37,6 +38,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/process" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/way/generators" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -46,6 +48,7 @@
           <root url="file://$MODULE_DIR$/vendor/d11wtq/boris" />
           <root url="file://$MODULE_DIR$/vendor/classpreloader/classpreloader" />
           <root url="file://$MODULE_DIR$/vendor/stack/builder" />
+          <root url="file://$MODULE_DIR$/vendor/way/generators" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
           <root url="file://$MODULE_DIR$/vendor/moltin/currency" />
@@ -76,6 +79,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
           <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
           <root url="file://$USER_HOME$/Laravel_IDE_Helper" />
+          <root url="file://$MODULE_DIR$/vendor/mustache/mustache" />
           <root url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
           <root url="file://$MODULE_DIR$/vendor/filp/whoops" />
           <root url="file://$MODULE_DIR$/vendor/laravel/framework" />
@@ -84,6 +88,7 @@
           <root url="file://$MODULE_DIR$/vendor/d11wtq/boris" />
           <root url="file://$MODULE_DIR$/vendor/classpreloader/classpreloader" />
           <root url="file://$MODULE_DIR$/vendor/stack/builder" />
+          <root url="file://$MODULE_DIR$/vendor/way/generators" />
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
           <root url="file://$MODULE_DIR$/vendor/moltin/currency" />
@@ -114,6 +119,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
           <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
           <root url="file://$USER_HOME$/Laravel_IDE_Helper" />
+          <root url="file://$MODULE_DIR$/vendor/mustache/mustache" />
           <root url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
           <root url="file://$MODULE_DIR$/vendor/filp/whoops" />
           <root url="file://$MODULE_DIR$/vendor/laravel/framework" />

@@ -107,7 +107,8 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
         'Intervention\Image\ImageServiceProvider',
-        'Moltin\Cart\CartServiceProvider'
+        'Moltin\Cart\CartServiceProvider',
+        'Way\Generators\GeneratorsServiceProvider'
 	),
 
 	/*
