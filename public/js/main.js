@@ -56,8 +56,8 @@ function carousel() {
     $('#products').carouFredSel({
         width: 990,
         height: 'auto',
-        prev: '#prev_add',
-        next: '#next_add',
+        prev: '.prev',
+        next: '.next',
         auto: {
             play: true,
             delay: 6

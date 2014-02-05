@@ -500,8 +500,35 @@ header a:link, header a:visited {
     text-align: left;
 }
 
+.caroufredsel_wrapper{
+    margin: 0 0 0 43px !important;
+}
+/*Prev Next*/
+
+.prev, .next{
+    display: block;
+    top: 790px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    cursor: pointer;
+}
+.prev{
+    float: left;
+    left: 110px;
+}
+.next{
+    background: url("/img/next.png") no-repeat scroll;
+    float: right;
+    right: 110px;
+}
+
+
 /* ---- products ---- */
 
+.list_carousel{
+    width: 980px;
+}
 #products {
     text-align: center;
 }
