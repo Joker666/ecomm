@@ -26,9 +26,20 @@ $app = new Illuminate\Foundation\Application;
 
 $env = $app->detectEnvironment(array(
 
-	'local' => array('your-machine-name'),
+	//'local' => array('your-machine-name'),
+    'development' => array('Joker')
 
 ));
+/*$env = $app->detectEnvironment(function(){
+    $hosts = array(
+        'localhost' => 'development',
+        'stage.project.com' => 'staging',
+    );
+    if(isset($hosts[$_SERVER['SERVER_NAME']])){
+        return $hosts[$_SERVER['SERVER_NAME']];
+    }
+
+});*/
 
 /*
 |--------------------------------------------------------------------------
