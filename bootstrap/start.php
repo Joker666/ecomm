@@ -35,7 +35,6 @@ $env = $app->detectEnvironment(array(
         ? $_SERVER['LARAVEL_ENV']
         : 'development'; // or whatever fallback you prefer
 });*/
-
 /*
 |--------------------------------------------------------------------------
 | Bind Paths

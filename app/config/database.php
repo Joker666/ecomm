@@ -63,7 +63,7 @@ return array(
 			'prefix'    => '',
 		),*/
 
-        /*'mysql' => array(
+        'mysql' => array(
             'driver'    => 'mysql',
             'host'      => getenv('DB_HOST'),
             'database'  => getenv('DB_NAME'),
@@ -72,9 +72,9 @@ return array(
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
-        ),*/
+        ),
 
-        'mysql' => array(
+        /*'mysql' => array(
             'driver'    => 'mysql',
             'host'      => 'ecommjoker.mysql.eu1.frbit.com',
             'database'  => 'ecommjoker',
@@ -83,7 +83,7 @@ return array(
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
-        ),
+        ),*/
 
 		'pgsql' => array(
 			'driver'   => 'pgsql',

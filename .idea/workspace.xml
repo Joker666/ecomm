@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f31398ac-c0fc-46a4-ac6e-1c4f4bc9156d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/start.php" afterPath="$PROJECT_DIR$/bootstrap/start.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecomm.iws" />
@@ -33,16 +34,16 @@
       <file leaf-file-name="start.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="3" selection-start="980" selection-end="980" vertical-scroll-proportion="-9.576923" vertical-offset="169" max-vertical-offset="1425">
+            <state line="26" column="0" selection-start="864" selection-end="864" vertical-scroll-proportion="-7.3076925" vertical-offset="133" max-vertical-offset="1406">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.5646853" vertical-offset="0" max-vertical-offset="572">
+            <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="532">
               <folding>
                 <element signature="e#7#392#0" expanded="true" />
               </folding>
@@ -50,37 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/development/database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="37" selection-start="205" selection-end="205" vertical-scroll-proportion="-5.1153846" vertical-offset="0" max-vertical-offset="418">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="38" selection-start="2493" selection-end="2493" vertical-scroll-proportion="-12.5" vertical-offset="1195" max-vertical-offset="2888">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connector.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="61" selection-start="1043" selection-end="1043" vertical-scroll-proportion="-13.230769" vertical-offset="530" max-vertical-offset="1444">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="39" selection-start="440" selection-end="440" vertical-scroll-proportion="-0.0" vertical-offset="228" max-vertical-offset="931">
+            <state line="65" column="8" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.06993007" vertical-offset="1195" max-vertical-offset="2888">
               <folding />
             </state>
           </provider>
@@ -136,9 +110,10 @@
         <option value="$PROJECT_DIR$/app/controllers/UsersController.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/config/development/database.php" />
-        <option value="$PROJECT_DIR$/app/config/database.php" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/config/database.php" />
       </list>
     </option>
   </component>
@@ -250,21 +225,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,7 +404,11 @@
       <created>1391722179418</created>
       <updated>1391722179418</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Test&#10;">
+      <created>1391722624909</created>
+      <updated>1391722624909</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,7 +454,6 @@
     <MESSAGE value="Way Generated!&#10;" />
     <MESSAGE value="Carousel Working&#10;" />
     <MESSAGE value="ReadMe Changed!" />
-    <MESSAGE value="Test&#10;" />
     <MESSAGE value="Again Test" />
     <MESSAGE value="Testing Online" />
     <MESSAGE value="Some changes" />
@@ -497,22 +461,13 @@
     <MESSAGE value="Let's Using [trigger:composer]&#10;" />
     <MESSAGE value="fff&#10;" />
     <MESSAGE value="ggg" />
-    <option name="LAST_COMMIT_MESSAGE" value="ggg" />
+    <MESSAGE value="Test&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="175" selection-end="175" vertical-scroll-proportion="-8.346154" vertical-offset="30" max-vertical-offset="418" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="33" selection-start="219" selection-end="219" vertical-scroll-proportion="0.3653846" vertical-offset="0" max-vertical-offset="572" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/CategoriesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="8" selection-start="277" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1026" />
@@ -744,40 +699,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+    <entry file="file://$PROJECT_DIR$/server.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="38" selection-start="2493" selection-end="2493" vertical-scroll-proportion="-12.5" vertical-offset="1195" max-vertical-offset="2888">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php">
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="61" selection-start="1043" selection-end="1043" vertical-scroll-proportion="-13.230769" vertical-offset="530" max-vertical-offset="1444">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/development/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="205" selection-end="205" vertical-scroll-proportion="-5.1153846" vertical-offset="0" max-vertical-offset="418">
+        <state line="3" column="15" selection-start="101" selection-end="101" vertical-scroll-proportion="0.09913044" vertical-offset="0" max-vertical-offset="575">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="3" selection-start="980" selection-end="980" vertical-scroll-proportion="-9.576923" vertical-offset="169" max-vertical-offset="1425">
+        <state line="26" column="0" selection-start="864" selection-end="864" vertical-scroll-proportion="-7.3076925" vertical-offset="133" max-vertical-offset="1406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/development/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="205" selection-end="205" vertical-scroll-proportion="0.23251748" vertical-offset="0" max-vertical-offset="572">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.5646853" vertical-offset="0" max-vertical-offset="572">
+        <state line="17" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="-12.423077" vertical-offset="0" max-vertical-offset="532">
           <folding>
             <element signature="e#7#392#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="61" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.6013986" vertical-offset="530" max-vertical-offset="1444">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="8" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.06993007" vertical-offset="1195" max-vertical-offset="2888">
+          <folding />
         </state>
       </provider>
     </entry>
