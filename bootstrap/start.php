@@ -24,22 +24,17 @@ $app = new Illuminate\Foundation\Application;
 |
 */
 
-$env = $app->detectEnvironment(array(
+/*$env = $app->detectEnvironment(array(
 
 	//'local' => array('your-machine-name'),
     'development' => array('Joker')
 
-));
-/*$env = $app->detectEnvironment(function(){
-    $hosts = array(
-        'localhost' => 'development',
-        'stage.project.com' => 'staging',
-    );
-    if(isset($hosts[$_SERVER['SERVER_NAME']])){
-        return $hosts[$_SERVER['SERVER_NAME']];
-    }
-
-});*/
+));*/
+$env = $app->detectEnvironment(function () {
+    return isset($_SERVER['LARAVEL_ENV'])
+        ? $_SERVER['LARAVEL_ENV']
+        : 'development'; // or whatever fallback you prefer
+});
 
 /*
 |--------------------------------------------------------------------------
