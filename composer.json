@@ -10,7 +10,8 @@
         "moltin/currency": "dev-master",
         "moltin/cart": "dev-master",
         "moltin/laravel-cart": "dev-master",
-        "way/generators": "dev-master"
+        "way/generators": "dev-master",
+        "slim/slim":"2.*"
     },
     "autoload": {
         "classmap": [
