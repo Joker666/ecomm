@@ -63,12 +63,23 @@ return array(
 			'prefix'    => '',
 		),*/
 
-        'mysql' => array(
+        /*'mysql' => array(
             'driver'    => 'mysql',
             'host'      => getenv('DB_HOST'),
             'database'  => getenv('DB_NAME'),
             'username'  => getenv('DB_USER'),
             'password'  => getenv('DB_PASSWORD'),
+            'charset'   => 'utf8',
+            'collation' => 'utf8_unicode_ci',
+            'prefix'    => '',
+        ),*/
+
+        'mysql' => array(
+            'driver'    => 'mysql',
+            'host'      => 'ecommjoker.mysql.eu1.frbit.com',
+            'database'  => 'ecommjoker',
+            'username'  => 'dW9Oy1v3zZGSGDUn',
+            'password'  => 'ecommjoker',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
