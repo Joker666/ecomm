@@ -27,7 +27,7 @@ $app = new Illuminate\Foundation\Application;
 $env = $app->detectEnvironment(array(
 
 	//'local' => array('your-machine-name'),
-    'development' => array('')
+    'development' => array('Joker')
 
 ));
 /*$env = $app->detectEnvironment(function () {

@@ -16,7 +16,7 @@
 
         {{ Form::button('Sign In', array('type' => 'Submit', 'class' => 'secondary-cart-btn')) }}
         {{ Form::close() }}
-    </form>
+
 </section><!-- end signin-form -->
 <section id="signup">
     <h2>I'm a new customer</h2>

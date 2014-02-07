@@ -20,5 +20,43 @@
         }
     }
 }());
+(function($) {
+    "use strict";
 
+    $(function() {
+
+        // jQuery Scroll Up / Back To Top Image
+        $.scrollUp({
+            scrollName:        'scrollUp', // Element ID
+            topDistance:       '300',      // Distance from top before showing element (px)
+            topSpeed:          300,        // Speed back to top (ms)
+            animation:         'fade',     // Fade, slide, none
+            animationInSpeed:  200,        // Animation in speed (ms)
+            animationOutSpeed: 200,        // Animation out speed (ms)
+            scrollText:        '',         // Text for element
+            activeOverlay:     false      // Set CSS color to display scrollUp active point, e.g '#00FFFF'
+        });
+
+        // ScrollUp Placement
+        /*$( window ).on( 'scroll', function() {
+
+            // If the height of the document less the height of the document is the same as the
+            // distance the window has scrolled from the top...
+            if ( $( document ).height() - $( window ).height() === $( window ).scrollTop() ) {
+
+                // Adjust the scrollUp image so that it's a few pixels above the footer
+                $('#scrollUp').css( 'bottom', '80px' );
+
+            } else {
+
+                // Otherwise, leave set it to its default value.
+                $('#scrollUp').css( 'bottom', '30px' );
+
+            } // end if/else
+
+        });*/
+
+    });
+
+} (jQuery) );
 // Place any jQuery/helper plugins in here.

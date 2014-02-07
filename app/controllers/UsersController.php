@@ -53,6 +53,6 @@ class UsersController extends BaseController{
 
     public function getSignout(){
         Auth::logout();
-        return Redirect::to('users/signin')->with('message', 'You have been signed out');
+        return Redirect::to('/')->with('message', 'You have been signed out');
     }
 }
