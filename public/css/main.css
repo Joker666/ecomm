@@ -114,6 +114,12 @@ p, h1, h2, h3, h4, h5, ul, li {
 /* ============================================================================
    Header
    ============================================================================ */
+#sticky_navigation_wrapper { width:100%; height:50px; }
+#sticky_navigation { z-index:8; width:100%; height:50px; background:url(../img/trans-black-60.png); -moz-box-shadow: 0 0 5px #999; -webkit-box-shadow: 0 0 5px #999; box-shadow: 0 0 5px #999; }
+#sticky_navigation ul { list-style:none; margin:0; padding:5px; }
+#sticky_navigation ul li { margin:0; padding:0; display:inline; }
+#sticky_navigation ul li a { display:block; float:left; margin:0 0 0 5px; padding:0 20px; height:40px; line-height:40px; font-size:14px; font-family:Arial, serif; font-weight:bold; color:#ddd; background:#333; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px; }
+#sticky_navigation ul li a:hover, #sticky_navigation ul li a.selected { color:#fff; background:#111; }
 
 header {
     background-color: #fff;
@@ -134,10 +140,9 @@ header a:link, header a:visited {
 }
 
 /* ---- action-bar --- */
-
 #action-bar {
-    height: 55px;
-    padding: 35px 0 0 30px;
+    height: 35px;
+    padding: 15px 0 10px 30px;
     vertical-align: middle;
     position: relative;
     z-index: 2;

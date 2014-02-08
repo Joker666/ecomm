@@ -40,9 +40,9 @@
 
 <div id="wrapper">
     <header>
-        <section id="top-area">
+        <!--<section id="top-area">
             <p>Phone orders: 1-800-0780 | Email us: <a href="mailto:office@shop.com">office@shop.com</a></p>
-        </section>
+        </section>-->
         <!-- end top-area -->
         <section id="action-bar">
             <div id="logo">
@@ -114,6 +114,24 @@
             <!-- end view-cart -->
         </section>
         <!-- end action-bar -->
+
+
+        <!-- Sticky Navbar -->
+        <div id="sticky_navigation_wrapper">
+            <div id="sticky_navigation">
+                <div class="demo_container">
+                    <ul>
+                        <li><a href="#" class="selected">HOME</a></li>
+                        <li><a href="#">ABOUT US</a></li>
+                        <li><a href="#">SERVICES</a></li>
+                        <li><a href="#">CLIENTS</a></li>
+                        <li><a href="#">PARTNERS</a></li>
+                        <li><a href="#">CONTACT</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Sticky Navbar End -->
     </header>
 
 
@@ -140,7 +158,7 @@
             </div>
         </div>
     </div>
-
+    <!-- Modal END -->
     @yield('promo')
 
     @yield('search-keyword')
