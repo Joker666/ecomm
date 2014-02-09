@@ -47,7 +47,7 @@
 
             <h3><a href="/store/view/{{ $product->id }}">{{ $product->title }}</a></h3>
 
-            <p>{{ $product->description }}</p>
+            <p class="front_offers">{{ str_limit($product->description, $limit = 100, $end = '...')}}</p>
 
             <h5>
             	Availability: 

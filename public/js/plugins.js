@@ -82,14 +82,14 @@ $(function() {
             $('#sticky_navigation').css({
                 'position': 'fixed', 'top':0, 'left':0
             });
-            $('#sticky_navigation ul').css({
+            /*$('#sticky_navigation ul').css({
                 'marginLeft':99
-            });
+            });*/
         } else {
             $('#sticky_navigation').css({ 'position': 'relative' });
-            $('#sticky_navigation ul').css({
+            /*$('#sticky_navigation ul').css({
                 'marginLeft':0
-            });
+            });*/
         }
     };
 

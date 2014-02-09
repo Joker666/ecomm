@@ -23,7 +23,7 @@
 <section class="list_carousel">
     <div id="products">
         @foreach($products as $product)
-        <div class="product">
+        <div class="product product_front">
             <a href="/store/view/{{ $product->id }}">
                 {{ HTML::image($product->image, $product->title, array('class'=>'feature', 'width'=>'240',
                 'height'=>'127')) }}

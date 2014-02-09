@@ -35,7 +35,7 @@ App::after(function($request, $response)
 
 Route::filter('auth', function()
 {
-	if (Auth::guest()) return Redirect::guest('users/signin');
+	if (Auth::guest()) return Redirect::guest('users/signin')->with('message', 'Sign In to Continue Shopping');
 });
 
 

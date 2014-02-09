@@ -17,9 +17,12 @@
     {{ Form::text('quantity', 1, array('maxlength'=>'2')) }}
     {{ Form::hidden('id', $product->id) }}
 
-    <button type="submit" class="secondary-cart-btn">
+    <!--<button type="submit" class="secondary-cart-btn">
         {{ HTML::image('img/white-cart.gif', 'Add to Cart')}}
         ADD TO CART
+    </button>-->
+    <button type="submit" class="btn btn-5 btn-5b icon-cart">
+        <span>ADD TO CART</span>
     </button>
     {{ Form::close() }}
 </div><!-- end product-details -->
