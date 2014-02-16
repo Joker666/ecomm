@@ -3,7 +3,7 @@ $(document).ready(
     coolSliding(),
     carousel()
 );
-
+/* Cool Slider Start*/
 function coolSliderLink() {
     $(".INL_CoolSlider").click(function () {
         var linkRef = $(this).attr('href');
@@ -50,7 +50,9 @@ function cool_slideUP() {
     $(".formErrorContent").remove();
     $(".formErrorArrow").remove();
 }
+/* Cool Slider End*/
 
+/* Front Carousel Start*/
 function carousel() {
     //$('#products').carouFredSel();
     $('#products').carouFredSel({
@@ -77,3 +79,4 @@ function carousel() {
         }
     });
 }
+/* Front Carousel End*/

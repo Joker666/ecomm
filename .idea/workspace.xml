@@ -1,26 +1,1213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f31398ac-c0fc-46a4-ac6e-1c4f4bc9156d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/codropsicons/codropsicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/codropsicons/codropsicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/codropsicons/codropsicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/Read Me.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/codropsicons/codropsicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/codropsicons/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/fonts/icomoon/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/StoreController.php" afterPath="$PROJECT_DIR$/app/controllers/StoreController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/store/category.blade.php" afterPath="$PROJECT_DIR$/app/views/store/category.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/filters.php" afterPath="$PROJECT_DIR$/app/filters.php" />
+    <list default="true" id="f31398ac-c0fc-46a4-ac6e-1c4f4bc9156d" name="Default" comment="Button Working!&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/2leftarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/2leftarrow_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/2rightarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/2rightarrow_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/img/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/FieldKey_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Field_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Field_small_char.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Field_small_date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Field_small_int.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/Header_Linked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/add_point_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/add_point_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/ajax_clock_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/ajax_clock_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/and_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/ang_direct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/arrow_ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/arrow_ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/arrow_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/arrow_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/asc_order.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_browse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_browse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_column_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_column_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_dbstatistics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_dbstatistics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_deltbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_deltbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_docs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_docs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_docsql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_engine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_engine.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_event_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_event_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_events.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_events.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_find_replace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_find_replace.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_firstpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_ftext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_ftext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_globe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_globe.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_import.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_import.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_index_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_index_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_inline_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_inline_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_insrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_insrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_lastpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_newdb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_newdb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_newtbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_newtbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_nextpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_nextpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_pdfdoc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_prevpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_primary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_primary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_props.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_props.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_relations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_relations.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_routine_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_routine_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_routines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_routines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_sbrowse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_sbrowse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_sdb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_selboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_selboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_snewtbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_snewtbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_spatial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_spatial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_sql.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_sqldoc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_sqlhelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_sqlhelp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_table_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_table_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tblanalyse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tblanalyse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tblexport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tblexport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tblimport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tblimport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tblops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tblops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tbloptimize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tbloptimize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_tipp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_tipp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_trigger_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_trigger_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_triggers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_triggers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_unique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_unique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_usradd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_usradd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_usrcheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_usrcheck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_usrdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_usrdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_usredit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_usredit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_usrlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_usrlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_view_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_view_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/b_views.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/b_views.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_browse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_browse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_deltbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_deltbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_export.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_firstpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_ftext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_ftext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_insrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_insrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_lastpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_nextpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_nextpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_prevpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_primary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_primary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_sbrowse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_sbrowse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_spatial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_spatial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/bd_unique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/bd_unique.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/bord.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/cleardot.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/cloud-popup-relative.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/col_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/col_drop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/col_pointer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/col_pointer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/col_pointer_ver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/col_pointer_ver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/config.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/copyright.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/credits.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/database.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/def.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusans.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusans.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusansb.ctg.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusansb.z" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/developers.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/display_field.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/dot.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/downarrow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/downarrow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/downarrow2_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/drag-rectangle-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/drag-rectangle-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/drag-rectangle-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/drag-rectangle-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_line_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_line_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_point_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_point_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_polygon_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/draw_polygon_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/east-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/east-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/east-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/editing_tool_bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/environment.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/error.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/error.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/exec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/exec_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/exitFullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/eye_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/eye_grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/faq.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/glossary.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/help_relation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/intro.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/layer-switcher-maximize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/layer-switcher-minimize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/left_nav_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/left_panel_butt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/left_panel_tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/lightbulb_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/lightbulb_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/logo_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/logo_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/logo_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/logo_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/marker-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/marker-gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/marker-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/measuring-stick-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/measuring-stick-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/move_feature_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/move_feature_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/navigation_history.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_data_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_data_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_data_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_data_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_data_selected_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_data_selected_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_struct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_struct.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_struct_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_struct_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_struct_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_struct_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/new_struct_selected_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/new_struct_selected_hovered.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/north-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/north-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/north-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/or_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/other.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/overview_replacement.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/pan-panel-NOALPHA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/pan-panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/pan_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/pan_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/panning-hand-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/panning-hand-off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/panning-hand-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/panning-hand-on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/php_sym.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pma_logo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/privileges.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/query_builder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/relation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/remove_point_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/remove_point_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/require.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/resize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/rightarrow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/rightarrow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_asci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_asci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_attention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_cancel2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_cog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_db.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_db.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_error2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_error2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_fulltext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_fulltext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_host.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_host.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_lang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_lang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_loggoff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_loggoff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_notice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_notice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_okay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_partialtext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_partialtext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_passwd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_passwd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_process.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_really.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_really.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_replication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_replication.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_rights.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_rights.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_status.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_status.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_sync.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_sync.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_tbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_tbl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_theme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_vars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_vars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/s_views.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/s_views.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/save_features_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/save_features_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/setup.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/small_tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/south-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/south-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/south-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/spacer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/spacer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/sprites.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/table.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/toggle-ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/toggle-ltr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/toggle-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/toggle-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/toggle_lines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/top_panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/transformations.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/uparrow2_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/user.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/doctrees/vendors.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/vertical_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/vertical_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/pmd/viewInFullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/view_next_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/view_next_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/view_previous_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/view_previous_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/west-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/west-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/west-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/window-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/window-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/zoom-minus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/zoom-minus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/zoom-minus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/zoom-panel-NOALPHA.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/img/zoom-panel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/zoom-plus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/zoom-plus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/zoom-plus-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/zoom-world-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/img/zoom-world-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/img/zoom-world-mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/img/zoombar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/phpseclib/Crypt/AES.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/AbstractImportCsv.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Advisor.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/AppendTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Application_Octetstream_Download.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Application_Octetstream_Hex.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/AuthenticationConfig.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/AuthenticationCookie.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/AuthenticationHttp.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/AuthenticationPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/AuthenticationSignon.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/BoolPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Config.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/ConfigFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/lib/ConfigGenerator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/DBIDrizzle.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/DBIDummy.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/DBIExtension.int.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/DBIMysql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/DBIMysqli.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/DBQbe.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/DatabaseInterface.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/DateFormatTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/DbSearch.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/Dia_Relation_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/DisplayResults.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/DocPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/DownloadTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/Eps_Relation_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Error.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Error_Handler.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportCodegen.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportCsv.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportExcel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportHtmlword.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportJson.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportLatex.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportMediawiki.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportOds.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportOdt.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportPdf.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportPhparray.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/ExportPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/plugins/ExportPluginProperties.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportSql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportTexytext.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportXml.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/ExportYaml.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/Export_Relation_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/ExternalTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/File.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Footer.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/Form.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/FormDisplay.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/FormDisplay.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/FormattedTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Header.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/HexTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/HiddenPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/ImageLinkTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Image_JPEG_Inline.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Image_JPEG_Link.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Image_PNG_Inline.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportCsv.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportLdi.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportMediawiki.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportOds.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/ImportPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/plugins/ImportPluginProperties.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportShp.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportSql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ImportXml.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/InlineTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/codemirror/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavu-fonts-ttf-2.33/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/List.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/List_Database.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/LongToIPv4TransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/canvg/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Menu.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Message.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/MessageOnlyPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Navigation.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/NavigationHeader.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/NavigationTree.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/NodeFactory.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Column.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Column_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Database.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_DatabaseChild.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Database_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Event.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Event_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Function.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Function_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Index.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Index_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Procedure.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Procedure_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Table.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Table_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Trigger.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_Trigger_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_View.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/navigation/Nodes/Node_View_Container.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/NumberPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/OpenLayers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/OpenStreetMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/OptionsPropertyGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/OptionsPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/groups/OptionsPropertyMainGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/OptionsPropertyOneItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/groups/OptionsPropertyRootGroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/groups/OptionsPropertySubgroup.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/OutputBuffering.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/PDF.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/PMA.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/PMA_ExportPdf.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Partition.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/Pdf_Relation_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/PluginManager.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/PluginObserver.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/plugins/PluginPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/PropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/README.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/RELEASE-DATE-4.1.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/RadioPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/RecentTable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Response.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/phpseclib/Crypt/Rijndael.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/SQLTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Scripts.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/SelectPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/ServerStatusData.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ShapeFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/bfShapeFiles/ShapeFile.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/ShapeRecord.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StorageEngine.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/String.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringAbstractType.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringByte.int.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringCType.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringMB.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringNative.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringNativeType.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/StringType.int.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/SubstringTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/Svg_Relation_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/TEMPLATE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/TEMPLATE_ABSTRACT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Table.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/export/TableProperty.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/TableSearch.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/TextImageLinkTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/abstract/TextLinkTransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/properties/options/items/TextPropertyItem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Append.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Dateformat.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_External.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Formatted.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Imagelink.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Link.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Longtoipv4.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Sql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/Text_Plain_Substring.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Theme.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Theme_Manager.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Tracker.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/TransformationsInterface.int.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/TransformationsPlugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Types.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/upload/UploadApc.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/UploadInterface.int.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/upload/UploadNoplugin.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/upload/UploadProgress.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/import/upload/UploadSession.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/schema/User_Schema.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/Util.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/Validator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/advisory_rules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/pmd/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/swekey/authentication.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/bdb.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/berkeleydb.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/binlog.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/bookmark.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/browse_foreigners.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/browse_foreigners.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/build_html_for_db.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/canvg/canvg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/changelog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/charset_conversion.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/check_user_privileges.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/chk_rel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/cleanup.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/codemirror.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/codemirror/lib/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/css/common.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/common.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/common.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/lib/common.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config.default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/config.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/frames/config.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/config.manyhosts.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/config.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/config.sample.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/config.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config.values.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/config_functions.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/_ext/configext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/copyright.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/copyright.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/copyright.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/core.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/create_addfield.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/create_tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/create_tables_drizzle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/credits.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/credits.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/cross_framing_protection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/data_dictionary_relations.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/database_interface.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/db_common.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_datadict.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/db_info.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/db_operations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_operations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_printview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_qbe.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_routines.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/db_search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_sql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/db_structure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_structure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/db_table_exists.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_tracking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/db_triggers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusans.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/dejavusansb.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/developers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/developers.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/developers.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_change_password.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_create_database.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_create_table.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_export.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_export.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_git_revision.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_import.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_import.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_import_ajax.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_select_lang.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/display_structure.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/doclinks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/dbi/drizzle-wrappers.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/enum_editor.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/error.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/error_report.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/error_report.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/error_report.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/event-alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/faq.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/faq.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/file_echo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/file_listing.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/frames/form.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/lib/form_processing.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/framedCloud.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/generator_main_class.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/transformations/generator_plugin.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/get_image.js.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/get_scripts.js.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/php-gettext/gettext.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/php-gettext/gettext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/gis.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/gis_data_editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/gis_data_editor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/glossary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/glossary.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/glossary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/google.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/fonts/helvetica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/pmd/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/iconv_wrapper.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/ie6-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/pmd/iecanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/import.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/import.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/import_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/frames/index.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/index.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/lib/index.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/indexes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/info.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/info.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/information_schema_relations.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/pmd/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/innobase.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/innodb.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/insert_edit.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/intro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/intro.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/intro.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/ip_allow_deny.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.barRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.byteFormatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.canvasAxisLabelRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.canvasTextRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.categoryAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/jqplot.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.dateAxisRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.pieRenderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/plugins/jqplot.pointLabels.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/jquery/jquery-ui-1.9.2.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/jquery/jquery-ui-1.9.2.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery-ui-timepicker-addon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.ba-hashchange-1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.debounce-1.0.5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.event.drag-2.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jqplot/jquery.jqplot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.json-2.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.menuResizer-1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.sortableTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.sprintf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.svg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/jquery.tablesorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-blind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-bounce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-explode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-pulsate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.selectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery-ui/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/js_escape.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/kanji-encoding.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/keyhandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/language_stats.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/layout.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/layout.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/license.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/line_counts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/logging.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/makegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/memory.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/frames/menu.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/merge.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/messages.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/messages.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/mime.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/pmd/move.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/mrg_myisam.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/mult_submits.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/mult_submits.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/swekey/musbe-ca.crt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/myisam.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/mysql_charsets.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/mysql_charsets.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/css/navigation.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/navigation.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/navigation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/ndbcluster.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/opendocument.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/openid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/operations.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/other.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/other.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/other.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/parse_analyze.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/pbxt.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/engines/performance_schema.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/phpmyadmin.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/phpunit.xml.nocoverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugin_interface.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_factory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_geometry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_geometrycollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_linestring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_multilinestring.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_multipoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_multipolygon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_point.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_polygon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/gis/pma_gis_visualization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/pmd.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/pmd_common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_display_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_pdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_relation_new.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_relation_upd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/pmd_save_pos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/prefs_forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/prefs_manage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/privileges.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/privileges.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/privileges.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/querywindow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/querywindow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/recaptchalib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/relation.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/relation_cleanup.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/replication.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/replication.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/replication_gui.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/require.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/require.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/require.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/resizable-menu.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/css/rte.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/rte.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_events.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_export.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_footer.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_list.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_main.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_routines.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_triggers.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/rte/rte_words.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/codemirror/addon/runmode/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sanitizing.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/schema_edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/schema_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/select_lang.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/select_server.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_bin_log.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_binlog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_collations.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_collations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_common.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_common.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_databases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_databases.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_databases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_engines.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_engines.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_plugins.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_plugins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_privileges.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_privileges.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_privileges.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_replication.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_sql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_status.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_status.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_status_advisor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_status_advisor.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_status_advisor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_status_monitor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_status_monitor.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_status_monitor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_status_queries.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_status_queries.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_status_queries.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_status_sorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_status_variables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_status_variables.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_status_variables.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_user_groups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_user_groups.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_user_groups.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_users.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/server_variables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/server_variables.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/server_variables.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/frames/servers.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/session.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/setup.forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/setup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/setup.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/setup.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/show_config_errors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/signon-script.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/signon.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/sizzle-jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/special_schema_links.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/sprites.css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/original/sprites.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/pmahomme/sprites.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/codemirror/mode/sql/sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sql.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/sql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sql_query_form.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sqlparser.data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sqlparser.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sqlvalidator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sqlvalidator.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/php-gettext/streams.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/string.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/structure.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/openlayers/theme/default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes/svg_gradient.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/swekey/swekey.auth.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/plugins/auth/swekey/swekey.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/swekey.sample.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/sysinfo.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_addfield.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_change.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_change.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_chart.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_chart.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_columns_definition_form.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_columns_definition_form.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_common.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_find_replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_find_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_get_field.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_gis_visualization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_gis_visualization.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_gis_visualization.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_import.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_indexes.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_indexes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_info.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_move_copy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_operations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_printview.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_printview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_relation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_relation.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_relation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_row_action.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_sql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_structure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_structure.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_tracking.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_tracking.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_triggers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tbl_views.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tbl_zoom_plot_jqplot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/tbl_zoom_select.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/tcpdf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/tcpdf_autoconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/include/tcpdf_colors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/config/tcpdf_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/include/tcpdf_font_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/include/tcpdf_fonts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/include/tcpdf_images.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/tcpdf/include/tcpdf_static.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/themes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/tracekit/tracekit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/transformation_overview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/transformation_wrapper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/transformations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/transformations.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/transformations.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/transformations.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/examples/upgrade_tables_mysql_4_1_2+.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/url.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/url_generating.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/user.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/user.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/user.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/user_password.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/config/user_preferences.forms.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/user_preferences.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/user_preferences.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/setup/validate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/vendor_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/vendors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/vendors.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_sources/vendors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/version_check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/view_create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/view_operations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/webapp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/doc/html/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/js/jquery/src/jquery/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/zip.lib.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pma/libraries/zip_extension.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/UsersController.php" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/store/index.blade.php" afterPath="$PROJECT_DIR$/app/views/store/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/main.blade.php" afterPath="$PROJECT_DIR$/app/views/layouts/main.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins.js" afterPath="$PROJECT_DIR$/public/js/plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/store/view.blade.php" afterPath="$PROJECT_DIR$/app/views/store/view.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecomm.iws" />
@@ -47,98 +1234,7 @@
     <favorites_list name="ecomm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1332" column="121" selection-start="26385" selection-end="26385" vertical-scroll-proportion="0.0" vertical-offset="24949" max-vertical-offset="31540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/store/view.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="59" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="893">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/StoreController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="5" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1577">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/store/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="49" selection-start="1486" selection-end="1486" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1273">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="42" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1197">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/main.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="125" column="52" selection-start="5346" selection-end="5370" vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="5263">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filters.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/filters.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="92" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="1748">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="187" column="14" selection-start="3596" selection-end="3596" vertical-scroll-proportion="0.0" vertical-offset="3249" max-vertical-offset="3914">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugins.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/js/plugins.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="3" selection-start="3881" selection-end="3881" vertical-scroll-proportion="1.3971632" vertical-offset="1283" max-vertical-offset="2223">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -184,19 +1280,22 @@
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/modal.blade.php" />
-        <option value="$PROJECT_DIR$/public/js/main.js" />
         <option value="$PROJECT_DIR$/app/views/users/signin.blade.php" />
-        <option value="$PROJECT_DIR$/app/controllers/UsersController.php" />
         <option value="$PROJECT_DIR$/public/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/public/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/main.blade.php" />
         <option value="$PROJECT_DIR$/app/views/store/category.blade.php" />
-        <option value="$PROJECT_DIR$/app/views/store/index.blade.php" />
         <option value="$PROJECT_DIR$/app/views/store/view.blade.php" />
         <option value="$PROJECT_DIR$/app/filters.php" />
         <option value="$PROJECT_DIR$/app/controllers/StoreController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/public/js/stretch_gallery.js" />
+        <option value="$PROJECT_DIR$/public/js/Front_SVG_Hover/snap.svg-min.js" />
+        <option value="$PROJECT_DIR$/public/js/Front_SVG_Hover/hovers.js" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/app/views/store/index.blade.php" />
         <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/public/js/plugins.js" />
+        <option value="$PROJECT_DIR$/app/views/layouts/main.blade.php" />
       </list>
     </option>
   </component>
@@ -249,10 +1348,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="111" />
+    <option name="y" value="61" />
+    <option name="width" value="1114" />
+    <option name="height" value="578" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -280,6 +1379,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -308,231 +1408,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="database" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seeds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
+              <option name="myItemId" value="bootstrap" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -566,9 +1451,12 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\fonts" />
-      <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\img" />
-      <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\js\Jquery Scroll Up" />
       <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\css" />
+      <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\img" />
+      <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\js\Front_SVG_Hover" />
+      <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\js\Jquery Scroll Up" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Hasan Rafi\Documents\Laravel Apps\ecomm\public\js" />
     </key>
   </component>
@@ -703,32 +1591,36 @@
       <created>1391840660312</created>
       <updated>1391840660313</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Button Working!">
+      <created>1391980535079</created>
+      <updated>1391980535079</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="111" y="61" width="1114" height="578" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35031846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31772575" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2265861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29924244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -760,35 +1652,23 @@
     <MESSAGE value="Again Test&#10;" />
     <MESSAGE value="Scroll Up and Modal Working!!" />
     <MESSAGE value="Sticky Navbar in Place..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sticky Navbar in Place..." />
+    <MESSAGE value="Button Working!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Button Working!" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/libs/Availability.php">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="489" selection-end="489" vertical-scroll-proportion="0.79310346" vertical-offset="0" max-vertical-offset="589" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/jquery.ba-throttle-debounce.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/jquery.carouFredSel-6.2.1-packed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/jquery.cycle.all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="29279" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="50" selection-start="4020" selection-end="4020" vertical-scroll-proportion="-6.0" vertical-offset="1934" max-vertical-offset="3553" />
+        <state line="32" column="64" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="5282">
+          <folding>
+            <marker date="1392562778029" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392562778029" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/workbench.php">
@@ -807,11 +1687,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.9875" vertical-offset="2793" max-vertical-offset="37069" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
@@ -820,19 +1700,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="19" selection-start="1814" selection-end="1814" vertical-scroll-proportion="0.7125" vertical-offset="0" max-vertical-offset="560" />
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
-      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/artisan">
@@ -841,11 +1721,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
       </provider>
@@ -865,34 +1740,14 @@
         <state line="3" column="15" selection-start="101" selection-end="101" vertical-scroll-proportion="0.09913044" vertical-offset="0" max-vertical-offset="575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/development/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="205" selection-end="205" vertical-scroll-proportion="0.23251748" vertical-offset="0" max-vertical-offset="572" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="61" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.6013986" vertical-offset="530" max-vertical-offset="1444" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="33" selection-start="978" selection-end="978" vertical-scroll-proportion="-9.192307" vertical-offset="141" max-vertical-offset="1406" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.945" vertical-offset="1767" max-vertical-offset="10241" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="31" selection-start="158" selection-end="158" vertical-scroll-proportion="0.3448276" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/store/search.blade.php">
@@ -915,21 +1770,6 @@
         <state line="63" column="8" selection-start="1852" selection-end="1852" vertical-scroll-proportion="1.8965517" vertical-offset="152" max-vertical-offset="1501" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/signin.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="-13.153846" vertical-offset="0" max-vertical-offset="646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="61" selection-start="519" selection-end="519" vertical-scroll-proportion="0.26480836" vertical-offset="0" max-vertical-offset="574" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="8" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.06968641" vertical-offset="1195" max-vertical-offset="2888" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/Scroll_Up/css/themes/tab.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703" />
@@ -938,11 +1778,6 @@
     <entry file="file://$PROJECT_DIR$/public/js/Scroll_Up/css/labs.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.4783335" vertical-offset="2687" max-vertical-offset="3686" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/Scroll_Up/js/jquery.scrollUp.js">
@@ -955,28 +1790,29 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-15.297436" vertical-offset="8949" max-vertical-offset="38152" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="77" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/store/category.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="105" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1672" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="53" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.0" vertical-offset="547" max-vertical-offset="1520" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="14" selection-start="3596" selection-end="3596" vertical-scroll-proportion="0.0" vertical-offset="3249" max-vertical-offset="3914">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/store/view.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="59" selection-start="691" selection-end="691" vertical-scroll-proportion="0.24216028" vertical-offset="298" max-vertical-offset="893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/signin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="30" selection-start="863" selection-end="863" vertical-scroll-proportion="0.73519164" vertical-offset="72" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/fonts/codropsicons/license.txt">
@@ -984,68 +1820,129 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/fonts/codropsicons/codropsicons.svg">
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587" />
+        <state line="187" column="14" selection-start="3596" selection-end="3596" vertical-scroll-proportion="5.9216666" vertical-offset="0" max-vertical-offset="3914" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/CategoriesController.php">
+    <entry file="file://$PROJECT_DIR$/public/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.165" vertical-offset="6099" max-vertical-offset="10241" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1197">
-          <folding />
-        </state>
+        <state line="17" column="61" selection-start="519" selection-end="519" vertical-scroll-proportion="-5.8461537" vertical-offset="0" max-vertical-offset="361" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="125" column="52" selection-start="5346" selection-end="5370" vertical-scroll-proportion="0.0" vertical-offset="2280" max-vertical-offset="5263">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/store/view.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="59" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="893">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/store/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="49" selection-start="1486" selection-end="1486" vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="1273">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="532" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/filters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="92" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="1748">
-          <folding />
-        </state>
+        <state line="37" column="92" selection-start="1029" selection-end="1029" vertical-scroll-proportion="-2.9230769" vertical-offset="456" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="6" selection-start="932" selection-end="932" vertical-scroll-proportion="1.4615384" vertical-offset="684" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="53" selection-start="1973" selection-end="1973" vertical-scroll-proportion="-22.807692" vertical-offset="490" max-vertical-offset="1520" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/CategoriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="10.961538" vertical-offset="285" max-vertical-offset="1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="42" selection-start="1256" selection-end="1256" vertical-scroll-proportion="-19.0" vertical-offset="380" max-vertical-offset="1330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/development/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="37" selection-start="205" selection-end="205" vertical-scroll-proportion="0.2413793" vertical-offset="0" max-vertical-offset="551" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="8" selection-start="1921" selection-end="1921" vertical-scroll-proportion="0.07259528" vertical-offset="1195" max-vertical-offset="2888" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_02_071201_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_01_090209_create_products_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="772" selection-end="772" vertical-scroll-proportion="1.1585366" vertical-offset="0" max-vertical-offset="798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_02_01_074018_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/StoreController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="5" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1577">
+        <state line="46" column="5" selection-start="1231" selection-end="1231" vertical-scroll-proportion="0.728223" vertical-offset="456" max-vertical-offset="1577" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="2" selection-start="1557" selection-end="1557" vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1577">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1332" column="121" selection-start="26385" selection-end="26385" vertical-scroll-proportion="0.0" vertical-offset="24949" max-vertical-offset="31540">
+        <state line="1697" column="18" selection-start="34407" selection-end="34407" vertical-scroll-proportion="0.7007874" vertical-offset="31976" max-vertical-offset="32357">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="3" selection-start="3881" selection-end="3881" vertical-scroll-proportion="1.3971632" vertical-offset="1283" max-vertical-offset="2223">
+        <state line="113" column="80" selection-start="4093" selection-end="4093" vertical-scroll-proportion="1.1627296" vertical-offset="1704" max-vertical-offset="2261">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="64" selection-start="1443" selection-end="1443" vertical-scroll-proportion="0.9633803" vertical-offset="266" max-vertical-offset="5282">
+          <folding>
+            <marker date="1392562778029" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1392562778029" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/store/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="23" selection-start="594" selection-end="594" vertical-scroll-proportion="-8.846154" vertical-offset="283" max-vertical-offset="1349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="394">
           <folding />
         </state>
       </provider>
