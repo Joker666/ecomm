@@ -16,6 +16,7 @@
 });*/
 
 Route::get('/', array('uses' => 'StoreController@getIndex'));
+Route::get('feed', 'RssController@index');
 
 Route::controller('admin/categories', 'CategoriesController');
 Route::controller('admin/products', 'ProductsController');
