@@ -14,7 +14,6 @@
         <title>{{ $product->title }}</title>
         <link href="{{ url('/store/view', $product->id) }}"/>
         <id>...</id>
-        <updated>...</updated>
         <summary>{{ str_limit($product->description, $limit = 100, $end = '...') }}</summary>
     </entry>
     @endforeach
