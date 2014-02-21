@@ -1,4 +1,5 @@
 <?php
+use Moltin\Cart\Cart;
 
 /**
  * Created by PhpStorm.

@@ -1,4 +1,5 @@
 <?php
+use Acme\Mailers\UserMailer as Mailer;
 
 /**
  * Created by PhpStorm.
@@ -8,9 +9,12 @@
  */
 class UsersController extends BaseController
 {
-    public function __construct()
+    protected $mailer;
+
+    public function __construct(Mailer $mailer)
     {
         parent::__construct();
+        $this->mailer = $mailer;
         $this->beforeFilter('csrf', array('on' => 'post'));
     }
 
@@ -31,6 +35,8 @@ class UsersController extends BaseController
             $user->password = Hash::make(Input::get('password'));
             $user->telephone = Input::get('telephone');
             $user->save();
+
+            $this->mailer->welcome($user);
 
             return Redirect::to('users/signin')
                 ->with('message', 'Thank you for creating new account. please Sign in');
