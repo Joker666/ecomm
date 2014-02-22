@@ -31,18 +31,18 @@ $app = new Illuminate\Foundation\Application;
 
 ));*/
 
-$env = $app->detectEnvironment(function(){
+/*$env = $app->detectEnvironment(function(){
 
 	//'local' => array('your-machine-name'),
     //'development' => array('Joker')
     return getenv('ENV') ?: 'development';
 
-});
-/*$env = $app->detectEnvironment(function () {
+});*/
+$env = $app->detectEnvironment(function () {
     return isset($_SERVER['LARAVEL_ENV'])
         ? $_SERVER['LARAVEL_ENV']
         : 'development'; // or whatever fallback you prefer
-});*/
+});
 /*
 |--------------------------------------------------------------------------
 | Bind Paths
