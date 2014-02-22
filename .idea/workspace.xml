@@ -641,7 +641,11 @@
       <created>1393089491433</created>
       <updated>1393089491433</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Password reset Working Perfectly...&#10;">
+      <created>1393089519696</created>
+      <updated>1393089519696</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -681,7 +685,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="ReadMe Changed!" />
     <MESSAGE value="Again Test" />
     <MESSAGE value="Testing Online" />
     <MESSAGE value="Some changes" />
@@ -706,7 +709,8 @@
     <MESSAGE value="Mail test [trigger:composer:install]&#10;" />
     <MESSAGE value="Mail test 2&#10;" />
     <MESSAGE value="Password reset Working Perfectly..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Password reset Working Perfectly..." />
+    <MESSAGE value="Password reset Working Perfectly...&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password reset Working Perfectly...&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
