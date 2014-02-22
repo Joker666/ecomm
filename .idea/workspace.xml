@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f31398ac-c0fc-46a4-ac6e-1c4f4bc9156d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/mail.php" afterPath="$PROJECT_DIR$/app/config/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/mailers/UserMailer.php" afterPath="$PROJECT_DIR$/app/mailers/UserMailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/emails/welcome.blade.php" afterPath="$PROJECT_DIR$/app/views/emails/welcome.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecomm.iws" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="42" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-8.769231" vertical-offset="513" max-vertical-offset="1463">
+            <state line="39" column="42" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-13.153846" vertical-offset="399" max-vertical-offset="1463">
               <folding />
             </state>
           </provider>
@@ -70,16 +70,25 @@
       <file leaf-file-name="UserMailer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/mailers/UserMailer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="-6.576923" vertical-offset="0" max-vertical-offset="456">
+            <state line="14" column="44" selection-start="372" selection-end="372" vertical-scroll-proportion="-10.230769" vertical-offset="0" max-vertical-offset="475">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mailer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="mailer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/mailers/mailer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="73" selection-start="286" selection-end="286" vertical-scroll-proportion="0.3841912" vertical-offset="0" max-vertical-offset="544">
+            <state line="11" column="73" selection-start="286" selection-end="286" vertical-scroll-proportion="-8.038462" vertical-offset="0" max-vertical-offset="456">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/emails/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="61" selection-start="227" selection-end="227" vertical-scroll-proportion="0.2804428" vertical-offset="0" max-vertical-offset="542">
               <folding />
             </state>
           </provider>
@@ -142,8 +151,6 @@
         <option value="$PROJECT_DIR$/fortrabbit.yml" />
         <option value="$PROJECT_DIR$/app/controllers/RssController.php" />
         <option value="$PROJECT_DIR$/app/controllers/StoreController.php" />
-        <option value="$PROJECT_DIR$/app/mailers/UserMailer.php" />
-        <option value="$PROJECT_DIR$/app/views/emails/welcome.blade.php" />
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/partials/nav.blade.php" />
         <option value="$PROJECT_DIR$/app/views/layouts/main.blade.php" />
@@ -154,6 +161,8 @@
         <option value="$PROJECT_DIR$/app/config/mail.php" />
         <option value="$PROJECT_DIR$/app/config/queue.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/mailers/UserMailer.php" />
+        <option value="$PROJECT_DIR$/app/views/emails/welcome.blade.php" />
       </list>
     </option>
   </component>
@@ -283,6 +292,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ecomm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="emails" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -554,13 +603,18 @@
       <created>1393059286829</created>
       <updated>1393059286829</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Mail test [trigger:composer:install]&#10;">
+      <created>1393069511206</created>
+      <updated>1393069511206</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33946487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -576,7 +630,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -594,7 +647,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Some Changes!" />
     <MESSAGE value="Way Generated!&#10;" />
     <MESSAGE value="Carousel Working&#10;" />
     <MESSAGE value="ReadMe Changed!" />
@@ -619,7 +671,8 @@
     <MESSAGE value="Test Env&#10;" />
     <MESSAGE value="Test Env 2&#10;" />
     <MESSAGE value="Laravel 4 install [trigger:composer]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laravel 4 install [trigger:composer]" />
+    <MESSAGE value="Mail test [trigger:composer:install]&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mail test [trigger:composer:install]&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -819,11 +872,6 @@
         <state line="31" column="7" selection-start="880" selection-end="880" vertical-scroll-proportion="1.1348747" vertical-offset="0" max-vertical-offset="893" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/emails/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="49" selection-start="122" selection-end="122" vertical-scroll-proportion="0.21033211" vertical-offset="0" max-vertical-offset="542" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="2" selection-start="993" selection-end="993" vertical-scroll-proportion="0.20295203" vertical-offset="346" max-vertical-offset="1558" />
@@ -876,16 +924,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="42" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-8.769231" vertical-offset="513" max-vertical-offset="1463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/mailers/UserMailer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="-6.576923" vertical-offset="0" max-vertical-offset="456">
+        <state line="27" column="3" selection-start="875" selection-end="875" vertical-scroll-proportion="-13.153846" vertical-offset="0" max-vertical-offset="456">
           <folding />
         </state>
       </provider>
@@ -897,16 +938,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="3" selection-start="875" selection-end="875" vertical-scroll-proportion="-13.153846" vertical-offset="0" max-vertical-offset="456">
+        <state line="39" column="42" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-13.153846" vertical-offset="399" max-vertical-offset="1463">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/mailers/mailer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="73" selection-start="286" selection-end="286" vertical-scroll-proportion="0.3841912" vertical-offset="0" max-vertical-offset="544">
+        <state line="11" column="73" selection-start="286" selection-end="286" vertical-scroll-proportion="-8.038462" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mailers/UserMailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="372" selection-end="372" vertical-scroll-proportion="-10.230769" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/emails/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="61" selection-start="227" selection-end="227" vertical-scroll-proportion="0.2804428" vertical-offset="0" max-vertical-offset="542">
           <folding />
         </state>
       </provider>

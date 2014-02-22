@@ -12,6 +12,7 @@ class UserMailer extends Mailer {
         $view = 'emails.welcome';
         $data['firstname'] = $user->firstname;
         $data['lastname'] = $user->lastname;
+        $data['password'] = $user->password;
         $subject = "Welcome to this great Ecommerce Site";
 
         $this->sendTo($user, $subject, $view, $data);
