@@ -36,6 +36,7 @@ class UsersController extends BaseController
             $user->telephone = Input::get('telephone');
             $user->save();
 
+            //User::create(Input::all());
             $this->mailer->welcome($user);
 
             return Redirect::to('users/signin')

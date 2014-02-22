@@ -9,8 +9,11 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/intervention/image" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ircmaxell/password-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/iron-io/iron_core" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/iron-io/iron_mq" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jeremeamia/SuperClosure" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mailchimp/mailchimp" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/moltin/cart" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/moltin/currency" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
@@ -54,6 +57,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
           <root url="file://$MODULE_DIR$/vendor/moltin/currency" />
+          <root url="file://$MODULE_DIR$/vendor/iron-io/iron_core" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/filesystem" />
           <root url="file://$MODULE_DIR$/vendor/intervention/image" />
@@ -79,11 +83,13 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/css-selector" />
           <root url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
           <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/vendor/mailchimp/mailchimp" />
           <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
           <root url="file://$USER_HOME$/Laravel_IDE_Helper" />
           <root url="file://$MODULE_DIR$/vendor/mustache/mustache" />
           <root url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
           <root url="file://$MODULE_DIR$/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/vendor/iron-io/iron_mq" />
           <root url="file://$MODULE_DIR$/vendor/laravel/framework" />
         </CLASSES>
         <SOURCES>
@@ -95,6 +101,7 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/event-dispatcher" />
           <root url="file://$MODULE_DIR$/vendor/symfony/dom-crawler" />
           <root url="file://$MODULE_DIR$/vendor/moltin/currency" />
+          <root url="file://$MODULE_DIR$/vendor/iron-io/iron_core" />
           <root url="file://$MODULE_DIR$/vendor/guzzle/guzzle" />
           <root url="file://$MODULE_DIR$/vendor/symfony/filesystem" />
           <root url="file://$MODULE_DIR$/vendor/intervention/image" />
@@ -120,12 +127,24 @@
           <root url="file://$MODULE_DIR$/vendor/symfony/css-selector" />
           <root url="file://$MODULE_DIR$/vendor/nikic/php-parser" />
           <root url="file://$MODULE_DIR$/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/vendor/mailchimp/mailchimp" />
           <root url="file://$MODULE_DIR$/vendor/nesbot/carbon" />
           <root url="file://$USER_HOME$/Laravel_IDE_Helper" />
           <root url="file://$MODULE_DIR$/vendor/mustache/mustache" />
           <root url="file://$MODULE_DIR$/vendor/moltin/laravel-cart" />
           <root url="file://$MODULE_DIR$/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/vendor/iron-io/iron_mq" />
           <root url="file://$MODULE_DIR$/vendor/laravel/framework" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/vendor/iron-io/iron_mq/iron_mq.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/vendor/iron-io/iron_mq/iron_mq.phar" />
         </SOURCES>
       </library>
     </orderEntry>

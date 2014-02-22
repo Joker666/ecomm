@@ -11,7 +11,9 @@
         "moltin/cart": "dev-master",
         "moltin/laravel-cart": "dev-master",
         "way/generators": "dev-master",
-        "slim/slim":"2.*"
+        "slim/slim":"2.*",
+        "mailchimp/mailchimp": "2.0.4",
+        "iron-io/iron_mq": "1.4.8"
     },
     "autoload": {
         "classmap": [
