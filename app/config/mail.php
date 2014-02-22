@@ -28,7 +28,8 @@ return array(
 	|
 	*/
 
-	'host' => 'smtp.gmail.com',
+	//'host' => 'smtp.gmail.com',
+    'host' => 'smtp.mandrillapp.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -54,7 +55,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'mr.k779@outlook.com', 'name' => 'Ecommerce Admin'),
+	'from' => array('address' => 'mr.k779@gmail.com', 'name' => 'Ecommerce Admin'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +81,8 @@ return array(
 	|
 	*/
 
-	'username' => 'mr.k779',
+	//'username' => 'mr.k779',
+    'username' => 'mr.k779@gmail.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +95,8 @@ return array(
 	|
 	*/
 
-	'password' => 'rubuntud779',
+	//'password' => 'rubuntud779',
+    'password' => 'l7IfDjhstPPYhfL_V7cpaA',
 
 	/*
 	|--------------------------------------------------------------------------
