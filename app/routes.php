@@ -26,3 +26,6 @@ Route::controller('users', 'UsersController');
 Route::post('queue/demo', function(){
    return Queue::marshal();
 });
+
+Route::resource('password_resets', 'PasswordResetsController');
+Route::controller('password_resets', 'PasswordResetsController');
