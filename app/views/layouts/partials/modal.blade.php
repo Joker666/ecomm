@@ -10,9 +10,10 @@
                 <input type="text" name="email" id="email" placeholder="Email"/>
                 <input type="password" name="password" id="password" placeholder="Password"/>
             </div>
+            {{ link_to_route('password_resets.create', 'Forgot Your Password?', null, array('class' => 'forgot_password'))}}
             <div class="modal-footer">
-                <button class="tertiary-btn" onclick="location.href="
-                {{ url('/users/signup') }}"" style="float:left">Create New Account</button>
+                {{ HTML::link('users/newaccount', 'Sign Up', ['class' => 'tertiary-btn', 'style' => 'float:left']) }}
+                <!--<button class="tertiary-btn" onclick="location.href="{{ url('/users/newaccount') }}"" style="float:left">Create New Account</button>-->
                 {{ Form::button('Sign In', array('type' => 'Submit', "class"=>"tertiary-btn")) }}
                 {{ Form::close() }}
                 <button class="tertiary-btn" data-dismiss="modal">Close</button>

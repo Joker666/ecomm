@@ -2,6 +2,12 @@
 
 class PasswordResetsController extends BaseController {
 
+    public function __construct()
+    {
+        parent::__construct();
+        $this->beforeFilter('csrf', array('on' => 'post'));
+    }
+
 	public function Create()
 	{
         return View::make('users.password_create');

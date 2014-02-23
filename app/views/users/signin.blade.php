@@ -15,7 +15,7 @@
         </p>
 
         {{ Form::button('Sign In', array('type' => 'Submit', 'class' => 'secondary-cart-btn')) }}
-        {{ link_to_route('password_resets.create', 'Forgot Your Password?')}}
+        {{ link_to_route('password_resets.create', 'Forgot Your Password?' , null, array('class' => 'forgot_password'))}}
         {{ Form::close() }}
 
 </section><!-- end signin-form -->

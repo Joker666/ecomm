@@ -781,6 +781,21 @@ header a:link, header a:visited {
    Signin
    ============================================================================ */
 
+.forgot_password{
+    color: red;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+#signin-form .forgot_password{
+    color: red;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
 #signin-form, #signup {
     text-align: center;
     padding: 10px 0 30px 0;
