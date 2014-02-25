@@ -495,7 +495,11 @@
       <created>1393365626679</created>
       <updated>1393365626679</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="80 parcent front category done... :)&#10;">
+      <created>1393365691423</created>
+      <updated>1393365691423</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,7 +539,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="ggg" />
     <MESSAGE value="Test&#10;" />
     <MESSAGE value="Again Test&#10;" />
     <MESSAGE value="Scroll Up and Modal Working!!" />
@@ -560,7 +563,8 @@
     <MESSAGE value="Start Test" />
     <MESSAGE value="Start Test&#10;" />
     <MESSAGE value="80 parcent front category done... :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="80 parcent front category done... :)" />
+    <MESSAGE value="80 parcent front category done... :)&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="80 parcent front category done... :)&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
