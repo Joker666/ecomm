@@ -579,7 +579,11 @@
       <created>1393358724999</created>
       <updated>1393358724999</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Start Test&#10;">
+      <created>1393358750263</created>
+      <updated>1393358750263</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -619,7 +623,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="Let's Using [trigger:composer]&#10;" />
     <MESSAGE value="fff&#10;" />
     <MESSAGE value="ggg" />
     <MESSAGE value="Test&#10;" />
@@ -644,7 +647,8 @@
     <MESSAGE value="Modal Working!&#10;" />
     <MESSAGE value="Form" />
     <MESSAGE value="Start Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Test" />
+    <MESSAGE value="Start Test&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Test&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
