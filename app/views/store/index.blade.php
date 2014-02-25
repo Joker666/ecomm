@@ -21,6 +21,7 @@
 <h2>Choose Your Category</h2>
 <hr>
 
+
 <!-- New products Section -->
 <h2>New Products</h2>
 <hr>
