@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f31398ac-c0fc-46a4-ac6e-1c4f4bc9156d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/vendor/snap.svg-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/store/index.blade.php" afterPath="$PROJECT_DIR$/app/views/store/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/main.blade.php" afterPath="$PROJECT_DIR$/app/views/layouts/main.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/plugins.js" afterPath="$PROJECT_DIR$/public/js/plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecomm.iws" />
@@ -33,83 +28,7 @@
     <favorites_list name="ecomm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/store/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="8" selection-start="590" selection-end="590" vertical-scroll-proportion="14.153846" vertical-offset="843" max-vertical-offset="1748">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StoreController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/StoreController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="88" selection-start="550" selection-end="550" vertical-scroll-proportion="-8.769231" vertical-offset="171" max-vertical-offset="1596">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="license.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/fonts/codropsicons/license.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/main.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="53" selection-start="2487" selection-end="2512" vertical-scroll-proportion="-5.8461537" vertical-offset="969" max-vertical-offset="4693">
-              <folding>
-                <marker date="1393359732812" expanded="true" signature="1551:1803" placeholder="..." />
-                <marker date="1393359732812" expanded="true" signature="1644:1672" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Availability.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/libs/Availability.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="589">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductsController.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="21" selection-start="2236" selection-end="2236" vertical-scroll-proportion="1.4759152" vertical-offset="488" max-vertical-offset="1520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CategoriesController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/CategoriesController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-10.230769" vertical-offset="0" max-vertical-offset="1026">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -294,104 +213,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ecomm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -670,12 +491,16 @@
       <created>1393358766222</created>
       <updated>1393358766222</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="80 parcent front category done... :)">
+      <created>1393365626679</created>
+      <updated>1393365626679</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -683,7 +508,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24773414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24773414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -710,7 +535,6 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="fff&#10;" />
     <MESSAGE value="ggg" />
     <MESSAGE value="Test&#10;" />
     <MESSAGE value="Again Test&#10;" />
@@ -735,7 +559,8 @@
     <MESSAGE value="Form" />
     <MESSAGE value="Start Test" />
     <MESSAGE value="Start Test&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start Test&#10;" />
+    <MESSAGE value="80 parcent front category done... :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="80 parcent front category done... :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,7 +827,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/CategoriesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="-10.230769" vertical-offset="0" max-vertical-offset="1026">
+        <state line="14" column="0" selection-start="313" selection-end="313" vertical-scroll-proportion="0.4907749" vertical-offset="0" max-vertical-offset="1026">
           <folding />
         </state>
       </provider>
@@ -1025,8 +850,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="53" selection-start="2487" selection-end="2512" vertical-scroll-proportion="-5.8461537" vertical-offset="969" max-vertical-offset="4693">
           <folding>
-            <marker date="1393359732812" expanded="true" signature="1551:1803" placeholder="..." />
-            <marker date="1393359732812" expanded="true" signature="1644:1672" placeholder="..." />
+            <marker date="1393359732812" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1393359732812" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1047,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ProductsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="21" selection-start="2236" selection-end="2236" vertical-scroll-proportion="1.4759152" vertical-offset="488" max-vertical-offset="1520">
+        <state line="47" column="36" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.7472325" vertical-offset="488" max-vertical-offset="1520">
           <folding />
         </state>
       </provider>
