@@ -31,6 +31,7 @@
     {{ HTML::script('js/jquery.ba-throttle-debounce.min.js') }}
     {{ HTML::script('js/jquery.cycle.all.js') }}
     {{ HTML::script('js/Scroll_Up/js/jquery.scrollUp.min.js') }}
+    {{ HTML::script('js/vendor/snap.svg-min.js') }}
 </head>
 <body>
 <!--[if lt IE 7]>
