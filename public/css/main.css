@@ -966,6 +966,10 @@ header a:link, header a:visited {
 /* ============================================================================
    order-details & order-history & personal-details & shopping-cart
    ============================================================================ */
+#admin li a{
+    color: #5daad0;
+    text-decoration: none;
+}
 
 #order-details,
 #order-history,

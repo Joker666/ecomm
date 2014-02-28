@@ -12,11 +12,13 @@
     <ul>
         @foreach ($categories as $category)
         <li>
+            {{ HTML::image($category->image, $category->title, array('width'=>'50')) }}
             {{ $category->name }} -
             {{ Form::open(array('url' => 'admin/categories/destroy', 'class' => 'form-inline')) }}
             {{ Form::hidden('id', $category->id) }}
-            {{ Form::submit('delete') }}
-            {{ Form::close() }}
+            {{ Form::submit('Delete') }}
+            {{ Form::close() }} |
+            <a href="{{ url('admin/categories/update/'.$category->id) }}">Update</a>
         </li>
         @endforeach
     </ul>
@@ -35,10 +37,15 @@
     <!-- end form-errors-->
     @endif
 
-    {{ Form::open(array('url' => 'admin/categories/create')) }}
+    {{ Form::open(array('url' => 'admin/categories/create', 'files' => true)) }}
     <p>
         {{ Form::label('name') }}
         {{ Form::text('name') }}
+    </p>
+
+    <p>
+        {{ Form::label('image', 'Choose an Image') }}
+        {{ Form::file('image') }}
     </p>
     {{ Form::submit('Create Category', array('class' => 'secondary-cart-btn' )) }}
     {{ Form::close() }}
