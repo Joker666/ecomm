@@ -42,7 +42,10 @@
         {{ Form::label('name') }}
         {{ Form::text('name') }}
     </p>
-
+    <p>
+        {{ Form::label('description') }}
+        {{ Form::textarea('description') }}
+    </p>
     <p>
         {{ Form::label('image', 'Choose an Image') }}
         {{ Form::file('image') }}

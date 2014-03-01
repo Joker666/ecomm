@@ -8,6 +8,8 @@
 
 class UsersTableSeeder extends Seeder{
     public function run(){
+        User::truncate();
+
         $user = new User();
         $user->firstname = 'Jon';
         $user->lastname = 'Doe';

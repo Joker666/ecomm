@@ -12,10 +12,17 @@
             {{ Form::label('name') }}
             <input type="text" name="name"value="{{ $category->name or 'Default'}}" />
         </p>
-
         <p>
-            {{ Form::label('image', 'Choose an Image') }}
-            {{ Form::file('image') }}
+            {{ Form::label('description') }}
+            <textarea rows="4" cols="48" name="description">
+                {{ $category->description or 'Default'}}
+            </textarea>
+        </p>
+        <p>
+            <img src="{{ url($category->image) }}" />
+        </p>
+        <p>
+            <a href="{{ url('admin/categories/getChangePhoto/'.$category->id) }}">Change this photo</a>
         </p>
         {{ Form::submit('Update Category', array('class' => 'secondary-cart-btn' )) }}
         {{ Form::close() }}

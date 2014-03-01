@@ -28,6 +28,7 @@ class CategoriesController extends BaseController{
                 $category = new Category;
             }
             $category->name = Input::get('name');
+            $category->description = Input::get('description');
             $image = Input::file('image');
             $filename = date('Y-m-d-H-i-s-').rand(100,999).'.'. $image->getClientOriginalName();
             Image::make($image->getRealPath())->resize(250, 437)->save('public/img/categories/'.$filename);
@@ -58,6 +59,11 @@ class CategoriesController extends BaseController{
     public function getUpdate($category_id){
         $cat = Category::find($category_id);
         return View::make('categories.view')
+            ->with('category', $cat);
+    }
+    public function getChangePhoto($category_id){
+        $cat = Category::find($category_id);
+        return View::make('changePhoto')
             ->with('category', $cat);
     }
 }

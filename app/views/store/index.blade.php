@@ -23,7 +23,7 @@
 <div class="demo-2">
     <section id="grid" class="grid clearfix">
         @foreach($catnav as $cat)
-        <a href="{{ url('/store/category/'.$cat->id, $cat->name) }}"
+        <a href="{{ url('/store/category/'.$cat->id) }}"
            data-path-hover="m 0,0 0,47.7775 c 24.580441,3.12569 55.897012,-8.199417 90,-8.199417 34.10299,0 65.41956,11.325107 90,8.199417 L 180,0 z">
             <figure>
                 {{ HTML::image($cat->image, $cat->name) }}
@@ -33,7 +33,7 @@
                 </svg>
                 <figcaption>
                     <h2>{{ $cat->name }}</h2>
-                    <p>Soko radicchio bunya nuts gram dulse.</p>
+                    <p>{{ $cat->description }}</p>
                     <button>View</button>
                 </figcaption>
             </figure>
